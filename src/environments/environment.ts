@@ -4,7 +4,7 @@
 
 export const environment = {
     production: false,
-    api_url: 'http://localhost/phpangular/students_api/public/index.php/api/'
+    api_url: 'http://localhost/student_api/public/index.php/api/'
 };
 
 /*
